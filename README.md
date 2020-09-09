@@ -1,8 +1,6 @@
 # REMUSIC - Sistema de Musica
 Segue um sistema "front-end" de músicas, nomeado como Remusic. Usado como base o 'Spotify', 'YT Music', 'Deezer', entre outros...
 
-### No momento não emite sons, conexão com banco de dados nenhum...
-
 ## IDEIAS PARA O PROJETO:
 > Liberação para qualquer pessoa postar suas músicas,
 > Espaço do Compositor,
