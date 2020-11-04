@@ -1,4 +1,4 @@
-# REMUSIC - Sistema de Musica
-Segue um sistema "front-end" de músicas, nomeado como Remusic.
+# Remusic _ Music System
+Music System front-end. named Remusic!
 
-**[...] trabalhando em atualizações [...]**
+**[...] Working on Update [...]**
